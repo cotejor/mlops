@@ -1,0 +1,5 @@
+# Production
+scikit-learn==1.3.0
+scipy
+numpy
+Flask==2.3.2
